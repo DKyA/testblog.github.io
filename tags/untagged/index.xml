@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Testing Hugo Site</title>
+    <link>https://testblog.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Testing Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2021 22:30:56 +0200</lastBuildDate><atom:link href="https://testblog.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://testblog.github.io/posts/second/</link>
+      <pubDate>Fri, 10 Sep 2021 22:30:56 +0200</pubDate>
+      
+      <guid>https://testblog.github.io/posts/second/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus aperiam repudiandae distinctio quia eaque unde illum accusamus temporibus nisi accusantium, laudantium cupiditate quasi animi a beatae sunt. Consequatur, temporibus dolorem! Necessitatibus, odit error ex aliquid pariatur enim vero cupiditate optio culpa accusantium? Iusto, temporibus. Explicabo quo ex veritatis necessitatibus nam enim, adipisci quas quasi ab ad! Sequi aspernatur aut nobis. Magnam voluptatum aperiam optio vel distinctio animi, vitae nam neque, sunt voluptatibus eum porro totam soluta ipsam nostrum, repudiandae sit!</description>
+    </item>
+    
+    <item>
+      <title>New Post, test post</title>
+      <link>https://testblog.github.io/posts/newpost/</link>
+      <pubDate>Fri, 10 Sep 2021 21:50:03 +0200</pubDate>
+      
+      <guid>https://testblog.github.io/posts/newpost/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus aperiam repudiandae distinctio quia eaque unde illum accusamus temporibus nisi accusantium, laudantium cupiditate quasi animi a beatae sunt. Consequatur, temporibus dolorem! Necessitatibus, odit error ex aliquid pariatur enim vero cupiditate optio culpa accusantium? Iusto, temporibus. Explicabo quo ex veritatis necessitatibus nam enim, adipisci quas quasi ab ad! Sequi aspernatur aut nobis. Magnam voluptatum aperiam optio vel distinctio animi, vitae nam neque, sunt voluptatibus eum porro totam soluta ipsam nostrum, repudiandae sit!</description>
+    </item>
+    
+  </channel>
+</rss>
